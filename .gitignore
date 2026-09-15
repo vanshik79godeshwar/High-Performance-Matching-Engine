@@ -1,0 +1,22 @@
+# Build directories
+build/
+bin/
+lib/
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+
+# Generated CSV test streams
+*.csv
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.user
+*.suo
+
+# System files
+.DS_Store
+Thumbs.db
