@@ -2,7 +2,7 @@
 
 A production-quality, low-latency single-instrument order matching engine written in modern C++20. Designed for ultra-low allocation overhead in the hot path, strict price-time priority, deterministic event replay, invariant validation, and property-based differential fuzzing.
 
-![Architecture Overview](docs/images/architecture_diagram.png)
+![Architecture Overview](docs/images/architecture_diagram_whiteboard.png)
 
 ---
 
@@ -22,7 +22,7 @@ A production-quality, low-latency single-instrument order matching engine writte
 
 | Limit Order Book Design | Price-Time Matching Flow |
 | :---: | :---: |
-| ![Order Book Diagram](docs/images/order_book_diagram.png) | ![Matching Flow Diagram](docs/images/matching_flow_diagram.png) |
+| ![Order Book Diagram](docs/images/order_book_diagram_whiteboard.png) | ![Matching Flow Diagram](docs/images/matching_flow_diagram_whiteboard.png) |
 
 ---
 

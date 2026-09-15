@@ -2,6 +2,8 @@
 
 This document details the software architecture, memory layout, ownership semantics, and concurrency model of the **High-Performance Matching Engine**.
 
+![System Architecture Diagram](images/architecture_diagram_whiteboard.png)
+
 ---
 
 ## 1. Component Overview
